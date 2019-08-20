@@ -11,7 +11,7 @@ public static void main(String[] args) {
 	}
 	
 	int b=10;
-	if (b < 10){
+	if (b>10){
 		System.out.println("Valid");
 	}
 	
